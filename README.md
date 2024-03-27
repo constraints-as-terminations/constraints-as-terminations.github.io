@@ -2,7 +2,7 @@
 
 WORK IN PROGRESS /!\
 
-This is the repository that contains source code for the [CaT website](https://constraints-as-terminations.github.io).
+This repository contains the source code for the [Constraint as Terminations website](https://constraints-as-terminations.github.io), a work presented in **CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning** by  Elliot Chane-Sane\*, Pierre-Alexandre Leziart\*, Thomas Flayols, Olivier Stasse, Philippe Souères and Nicolas Mansard.
 
 <!---If you find Nerfies useful for your work please cite:
 ```
