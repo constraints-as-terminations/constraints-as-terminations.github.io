@@ -6,13 +6,11 @@ This paper has been accepted for the 2024 IEEE/RSJ International Conference on I
 
 If you find CaT useful for your work please cite:
 ```
-@misc{chanesane2024cat,
-      title={CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning},
+@inproceedings{chanesane2024cat,
       author={Elliot Chane-Sane and Pierre-Alexandre Leziart and Thomas Flayols and Olivier Stasse and Philippe Souères and Nicolas Mansard},
-      year={2024},
-      eprint={2403.18765},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+      title={CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning},
+      year={2024}
 }
 ```
 
